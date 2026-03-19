@@ -1,28 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>LunchBox</title>
-        <link>https://raw.githubusercontent.com/KrookedLilly/lunchbox-releases/master/appcast.xml</link>
-        <description>Most recent changes with links to updates.</description>
-        <language>en</language>
         <item>
-            <title>Version 1.0.1</title>
-            <description><![CDATA[
-                <ul>
-                    <li>Fix window snapping on portrait monitors — merged zones now correctly fill the full screen</li>
-                    <li>Reordered Behavior settings: Modifier Key, Snapping, Experimental</li>
-                </ul>
-            ]]></description>
-            <pubDate>Wed, 18 Mar 2026 14:04:49 -0700</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>1.0.2</title>
+            <pubDate>Thu, 19 Mar 2026 11:45:42 -0700</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/KrookedLilly/lunchbox-releases/releases/download/v1.0.1/LunchBox.dmg"
-                type="application/octet-stream"
-                sparkle:edSignature="aBSMu61D0wPE76nfTX8opfEAygni6PqXBY59S+FLsAxTpCy2spApb/v+lPKZT8d+W1ns1vKOAmCRooqjORB/DA=="
-                length="3014512"
-            />
+            <enclosure url="https://github.com/KrookedLilly/lunchbox-releases/releases/download/v1.0.2/LunchBox-1.0.2.dmg" length="3105636" type="application/octet-stream" sparkle:edSignature="qU5Kjyh4OerduLc3GqhzFSt91hv0iLxpxUDYv7AaSH1UauA9Bg70HmtnvxKI9PsM4ShRKkCsq2pVDkfEA4MAAQ=="/>
         </item>
     </channel>
 </rss>
